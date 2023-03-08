@@ -7,7 +7,7 @@ with open("LICENSE", "r", encoding="utf8") as fl:
 
 setuptools.setup(
     name="AyDictionary",
-    version="0.0.1",
+    version="0.0.3",
     author="A91y",
     author_email="ayush.agr254@gmail.com",
     description="A dictionary module for Python (Modification of PyDictionary)",
@@ -25,7 +25,7 @@ setuptools.setup(
         "Programming Language :: Python :: Implementation :: CPython",
     ],
     install_requires=[
-        'bs4',
+        'bs4==0.0.1',
         'click',
         'requests'
     ],

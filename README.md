@@ -99,7 +99,7 @@ Similarly Synonyms and Antonyms can also be printed onto the screen.
 
 ### About
 
-Current Version: 0.0.1
+Current Version: 0.0.3
 Created By Ayush Agrawal 2023.
 
 The orginal library is [PyDictionary](https://github.com/geekpradd/PyDictionary) ⭐
