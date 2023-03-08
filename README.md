@@ -12,14 +12,13 @@ This module uses Python Requests, BeautifulSoup4 and click as dependencies
 
 ### Installation
 
-Installation is very simple through easy_install
-<!-- Installation is very simple through pip (or easy_install) -->
-<!-- 
+Installation is very simple through pip (or easy_install)
+
 For pip
 
 ```
 pip install AyDictionary
-``` -->
+```
 
 For Easy_Install
 
