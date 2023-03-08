@@ -1,9 +1,10 @@
 ## AyDictionary: A Dictionary Module for Python
 
-<!-- [![Build Status](http://img.shields.io/travis/geekpradd/AyDictionary/master.svg?style=flat-square)](https://travis-ci.org/geekpradd/AyDictionary)
-[![Latest Version](http://img.shields.io/pypi/v/AyDictionary.svg?style=flat-square)](https://pypi.python.org/pypi/AyDictionary/)
+<!-- [![Build Status](https://img.shields.io/travis/geekpradd/AyDictionary/master.svg?style=flat-square)](https://travis-ci.org/geekpradd/AyDictionary) -->
+[![Latest Version](https://img.shields.io/pypi/v/AyDictionary.svg?style=flat-square)](https://pypi.python.org/pypi/AyDictionary/)
 [![License](https://img.shields.io/pypi/l/AyDictionary.svg?style=flat-square)](https://pypi.python.org/pypi/AyDictionary/)
-[![Downloads](https://img.shields.io/pypi/dm/AyDictionary.svg?style=flat-square)](https://pypi.python.org/pypi/AyDictionary/) -->
+<!-- [![Downloads](https://img.shields.io/pypi/dm/AyDictionary.svg?style=flat-square)](https://pypi.python.org/pypi/AyDictionary/) -->
+
 AyDictionary is modified version of [PyDictionary](https://github.com/geekpradd/PyDictionary)
 
 AyDictionary is a Dictionary Module for Python 3 to get meanings, synonyms and Antonyms of words. It uses WordNet for getting meanings, Google for translations, and synonym.com for getting synonyms and antonyms. 
