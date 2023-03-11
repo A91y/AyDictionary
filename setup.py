@@ -7,7 +7,7 @@ with open("LICENSE", "r", encoding="utf8") as fl:
 
 setuptools.setup(
     name="AyDictionary",
-    version="0.0.3",
+    version="0.0.4",
     author="A91y",
     author_email="ayush.agr254@gmail.com",
     description="A dictionary module for Python (Modification of PyDictionary)",
