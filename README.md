@@ -3,7 +3,7 @@
 <!-- [![Build Status](https://img.shields.io/travis/geekpradd/AyDictionary/master.svg?style=flat-square)](https://travis-ci.org/geekpradd/AyDictionary) -->
 [![Latest Version](https://img.shields.io/pypi/v/AyDictionary.svg?style=flat-square)](https://pypi.python.org/pypi/AyDictionary/)
 [![License](https://img.shields.io/pypi/l/AyDictionary.svg?style=flat-square)](https://pypi.python.org/pypi/AyDictionary/)
-<!-- [![Downloads](https://img.shields.io/pypi/dm/AyDictionary.svg?style=flat-square)](https://pypi.python.org/pypi/AyDictionary/) -->
+[![Downloads](https://img.shields.io/pypi/dm/AyDictionary.svg?style=flat-square)](https://pypi.python.org/pypi/AyDictionary/)
 
 AyDictionary is modified version of [PyDictionary](https://github.com/geekpradd/PyDictionary)
 
